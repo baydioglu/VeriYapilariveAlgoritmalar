@@ -34,6 +34,3 @@ O(n<sup>2</sup>)
 Average Case
 
 ---
-
-
-
